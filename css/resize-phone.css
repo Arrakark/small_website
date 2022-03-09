@@ -1,0 +1,63 @@
+/* CSS Document */
+
+
+#main_content {
+	padding-left:2%;
+	padding-right:2%;
+}
+
+#sidebar {
+	padding-top:0px;
+	width:100%;
+	float:left;
+	text-wrap:none;	
+}
+
+#widget {
+	margin-bottom:0;
+	margin-top:24px;
+}
+
+
+#page_content {
+	width:100%;
+	float:left;	
+}
+
+#page img {
+	width:calc(100% - 8px);
+	margin-right:auto;
+	margin-left:auto;
+}
+
+
+#header {
+	height:100px;
+	width:calc(100% - 50px);
+	padding-left:25px;
+	padding-right:25px;
+}
+
+#header h1 {
+	float:none;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+	margin:0;
+}
+
+#search {
+	float:left;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:30px;	
+}
+
+#navbar {
+	width:calc(100% - 50px);
+	padding-left:25px;
+	padding-right:25px;
+}
+#page {
+	width:calc(100% - 50px);
+	padding-left:25px;
+	padding-right:25px;
+}

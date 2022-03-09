@@ -1,0 +1,64 @@
+/* CSS Document */
+
+body {
+	background-color:#CCCCCC;
+	padding:0px;
+	margin:0px;	
+}
+
+#login_wrapper {
+	overflow:hidden;
+	width:245px;
+	padding:20px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:200px;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+	background-color:#FFF;	
+}
+
+#login_wrapper h2 {
+	opacity:1;
+	font-family:Helvetica, sans-serif;
+	font-weight:500;
+	color:#333333;
+}
+
+#login_wrapper hr {
+	color:#E1E1E1;
+	background-color: #E1E1E1;
+	height: 1px;
+	border:none;
+}
+
+/* Table */
+
+#login_wrapper table {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	border-collapse: collapse;
+}
+#login_wrapper table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #dedede;
+}
+#login_wrapper table td {
+	border-width: 1px;
+	min-height:20px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #ffffff;
+}
+
+#login_wrapper #error_text {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#F00;
+}

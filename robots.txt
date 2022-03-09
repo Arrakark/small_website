@@ -1,0 +1,9 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: yahoo-blogs/v3.9
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /admin/
+Disallow: /css/
+Disallow: /font/
+Disallow: /php/
